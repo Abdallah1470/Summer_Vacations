@@ -1,0 +1,62 @@
+
+]
+java:S1220""Move this file to a named package.8ÜÙÀ©‡2J$3e85dbc8-4921-43df-b199-1a8b1eb6d6cb
+°
+java:S1192/"mDefine a constant instead of duplicating this literal "Invalid input. Please enter a numeric value." 6 times.(Ü®¦™8Ÿ‰Ş©‡2J$b60c8295-bc18-4906-920f-39a9698820bc
+‰
+java:S1192Y"FDefine a constant instead of duplicating this literal "Tulib" 5 times.(ìØğ¤8Ÿ‰Ş©‡2J$94f26867-f999-4056-8de6-93e09e1cfea5
+
+java:S1192\"JDefine a constant instead of duplicating this literal "Semiramis" 5 times.(ÍÒ•ï8Ÿ‰Ş©‡2J$28caeccd-a945-4017-8dcb-0c89b6458484
+´
+java:S1192Â"kDefine a constant instead of duplicating this literal "Invalid input. Please enter 'yes' or 'no'." 4 times.(ìĞÊ½ıÿÿÿÿ8›Ÿù©‡2J$a4fd20fa-48ae-4268-a6d3-b368e201cc56
+
+java:S1192_"GDefine a constant instead of duplicating this literal "Hilton" 5 times.(¤±¢•ùÿÿÿÿ8Ÿ‰Ş©‡2J$31f155dc-db56-438b-8a0d-f8b25473e707
+‹
+java:S1192b"HDefine a constant instead of duplicating this literal "Regency" 5 times.(˜ßöÿ8Ÿ‰Ş©‡2J$700ec450-d237-43c6-b79c-0709118c2a6a
+–
+java:S1192s"NDefine a constant instead of duplicating this literal "Invalid input" 3 times.(®ëÎ§úÿÿÿÿ8Ÿ‰Ş©‡2J$f6f80ead-93c2-4450-92a1-189290fa1bc3
+r	java:S106!"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8¤‰Ş©‡2J$ae6503df-77ed-4929-82b1-64b83730d449
+p
+java:S5665""(Remove this unnecessary escape sequence.(Ï›ºÀşÿÿÿÿ8¤‰Ş©‡2J$ae1a223e-22a3-42ad-b72b-76c57a701b28
+r	java:S106,"+Replace this use of System.out by a logger.(ê×îïøÿÿÿÿ8¤‰Ş©‡2J$95697716-23c2-4c76-824f-a10ea08a87bb
+m	java:S106/"+Replace this use of System.out by a logger.(Ü®¦™8¥‰Ş©‡2J$1fd10839-ac75-48de-9dc3-c3a819215f69
+i	java:S1313""Add a default case to this switch.(‚§¥×ûÿÿÿÿ8¥‰Ş©‡2J$8c52fdb7-cd02-4123-a680-7789c4aa35ea
+r	java:S106E"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8¥‰Ş©‡2J$a74d2996-834b-4315-9296-1abbe561f94e
+p
+java:S5665F"(Remove this unnecessary escape sequence.(ƒ–®æşÿÿÿÿ8§‰Ş©‡2J$7fe2ff9f-86fe-4808-87de-91e9c1efe407
+r	java:S106P"+Replace this use of System.out by a logger.(ê×îïøÿÿÿÿ8§‰Ş©‡2J$8bd3d4fb-a555-4193-9d74-4ca5ef7d187a
+m	java:S106S"+Replace this use of System.out by a logger.(Ü®¦™8§‰Ş©‡2J$f6c73537-5625-49ad-92e2-11e880352356
+i	java:S131W""Add a default case to this switch.(‚§¥×ûÿÿÿÿ8§‰Ş©‡2J$89b02a25-6ec5-4668-ae5a-bf35b171131b
+š
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(öâŠ¨ûÿÿÿÿ8¨‰Ş©‡2J$05d8445d-fed3-4ee9-b71c-0bfc330f2688
+l	java:S106p"+Replace this use of System.out by a logger.(½•d8©‰Ş©‡2J$d50f4da4-0dad-4e00-a3f7-5e8982f6dbac
+r	java:S106s"+Replace this use of System.out by a logger.(®ëÎ§úÿÿÿÿ8©‰Ş©‡2J$db6956a1-5bac-44c4-870c-1bdada117ca9
+m	java:S106v"+Replace this use of System.out by a logger.(Ü®¦™8ª‰Ş©‡2J$acaaaf43-3aee-4cc1-9206-4feefbd6eb19
+m	java:S106}"+Replace this use of System.out by a logger.(ßï†¶8ª‰Ş©‡2J$931673bf-6f4d-40ac-8dd2-958c61dd8474
+s	java:S106€"+Replace this use of System.out by a logger.(®ëÎ§úÿÿÿÿ8ª‰Ş©‡2J$7cfb8201-2457-46a2-912f-08c28fd19c08
+n	java:S106ƒ"+Replace this use of System.out by a logger.(Ü®¦™8ª‰Ş©‡2J$812519c7-e3e4-4146-82d3-bf3f83ff2f2d
+s	java:S106Š"+Replace this use of System.out by a logger.(Ì±º†üÿÿÿÿ8«‰Ş©‡2J$01cf2db8-2d8f-45b7-af14-129eeea22a12
+s	java:S106"+Replace this use of System.out by a logger.(®ëÎ§úÿÿÿÿ8¬‰Ş©‡2J$70f544a6-f7c1-4c80-9d75-afaebce2dec4
+n	java:S106"+Replace this use of System.out by a logger.(Ü®¦™8¬‰Ş©‡2J$0522eecb-864c-429c-815c-7823b2d02dae
+s	java:S106¢"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8¦Ÿù©‡2J$b459c4ab-b6d6-41dd-aa9e-a42ced13fc0a
+q
+java:S5665£"(Remove this unnecessary escape sequence.(áŒ„ìÿÿÿÿÿ8¦Ÿù©‡2J$9f1722d9-e6d2-4a62-b11e-8a00be5c2a2f
+n	java:S106¬"+Replace this use of System.out by a logger.(Ê¸ ö8§Ÿù©‡2J$7b5b978a-0346-4cab-be0d-67b686583b4d
+n	java:S106¯"+Replace this use of System.out by a logger.(Ü®¦™8§Ÿù©‡2J$cd0036a1-98c6-490e-8192-f82ee251f11c
+m	java:S106·"+Replace this use of System.out by a logger.(ÖÓµ8§Ÿù©‡2J$75514da1-a690-4e57-b0af-f17012174bcc
+s	java:S106Â"+Replace this use of System.out by a logger.(ìĞÊ½ıÿÿÿÿ8¨Ÿù©‡2J$e6c329bd-1285-4073-926a-c7d4cb026476
+n	java:S106Ê"+Replace this use of System.out by a logger.(©ñ‰8©Ÿù©‡2J$a0052388-e741-4e2d-b00f-c0a23e538a14
+s	java:S106Õ"+Replace this use of System.out by a logger.(ìĞÊ½ıÿÿÿÿ8©Ÿù©‡2J$3e48709b-232c-4068-b174-5fe10db3cf3f
+n	java:S106İ"+Replace this use of System.out by a logger.(†Ç¥İ8©Ÿù©‡2J$9d026f97-efcb-4f87-a339-14472de84f5f
+s	java:S106è"+Replace this use of System.out by a logger.(ìĞÊ½ıÿÿÿÿ8ªŸù©‡2J$1619c9a3-7e0f-4441-a730-dc76390710fb
+n	java:S106ğ"+Replace this use of System.out by a logger.(ÂÌñ¡8ªŸù©‡2J$bd884bd9-52e7-4a18-ae11-88cdf7ef4920
+s	java:S106û"+Replace this use of System.out by a logger.(ìĞÊ½ıÿÿÿÿ8ªŸù©‡2J$c3cd7763-1ac6-45dd-b067-2fe43e8ae387
+j	java:S131ƒ""Add a default case to this switch.(°·ä×ıÿÿÿÿ8«Ÿù©‡2J$8ce39c36-2e2c-4790-904a-fe7f6932c435
+e	java:S131…""Add a default case to this switch.(Ä¾˜…8³‰Ş©‡2J$d3c60170-cd6e-4623-a840-5771f11169f1
+e	java:S131š""Add a default case to this switch.(Ä¾˜…8«Ÿù©‡2J$e09cd2a6-3a68-40d7-b4ac-591adcc6507a
+e	java:S131¯""Add a default case to this switch.(Ä¾˜…8«Ÿù©‡2J$506264e6-4235-4daa-8b92-f5591bcf23fd
+e	java:S131Ä""Add a default case to this switch.(Ä¾˜…8¬Ÿù©‡2J$06c24372-31aa-4ecf-bd8d-d03c1bb717bf
+n	java:S106Ş"+Replace this use of System.out by a logger.(Ûìİæ8¬Ÿù©‡2J$3ed45ba4-57e8-4f21-a75f-f5e33f08392a
+n	java:S106ë"+Replace this use of System.out by a logger.(¨Öô¨8­Ÿù©‡2J$443e5946-4248-4a89-8879-b9ec48faa19b
+l
+java:S5665ì"(Remove this unnecessary escape sequence.(£æ†¡8­Ÿù©‡2J$38d28ec0-f5fc-4300-a625-5cf50d01bde5
