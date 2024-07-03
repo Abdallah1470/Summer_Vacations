@@ -15,8 +15,7 @@ public class Vacation {
     private boolean airportDelivery;
     private double latitude;
     private double longitude;
-    private final String[] eReceipt = new String[9]; // 0.city, 1.hotel, 2.period, 3.bedNum, 4.wifi, 5.breakfast,
-                                                     // 6.parking, 7.airportDelivery, 8.mapURL
+    private final String[] eReceipt = new String[9]; // 0.city, 1.hotel, 2.period, 3.bedNum, 4.wifi, 5.breakfast, 6.parking, 7.airportDelivery, 8.mapURL
     private final Scanner scan = new Scanner(System.in);
 
     public Vacation() {
