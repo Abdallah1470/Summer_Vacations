@@ -23,7 +23,7 @@ public class Vacation {
         printEReceipt();
     }
 
-    public void setCity() {
+    private void setCity() {
         tempInt = 0;
         System.out.print("""
                 \nSelect a city to visit:
@@ -52,7 +52,7 @@ public class Vacation {
         eReceipt[0] = city;
     }
 
-    public void setHotel() {
+    private void setHotel() {
         tempInt = 0;
         System.out.print("""
                 \nSelect a hotel:
@@ -81,7 +81,7 @@ public class Vacation {
         eReceipt[1] = hotel;
     }
 
-    public void setPeriod() {
+    private void setPeriod() {
         int period = 0;
         int day = 0;
         int month = 0;
@@ -91,9 +91,9 @@ public class Vacation {
         Calendar cal = Calendar.getInstance();
 
         // Get the number of days the user will spend in the hotel
+        System.out.println("\nEnter number of days you will spend in the hotel: ");
         do {
             try {
-                System.out.println("\nEnter number of days you will spend in the hotel: ");
                 period = scan.nextInt();
                 if (period < 1) {
                     System.out.println("Invalid input");
@@ -104,9 +104,9 @@ public class Vacation {
             }
         } while (period < 1);
         // Get the day and month the user will arrive
+        System.out.println("\nEnter the day you will arrive: ");
         do {
             try {
-                System.out.println("\nEnter the day you will arrive: ");
                 day = scan.nextInt();
                 if (day < 1 || day > 31) {
                     System.out.println("Invalid input");
@@ -117,9 +117,9 @@ public class Vacation {
             }
         } while (day < 1 || day > 31);
 
+        System.out.println("\nEnter the month you will arrive: ");
         do {
             try {
-                System.out.println("\nEnter the month you will arrive: ");
                 month = scan.nextInt();
                 if (month < 1 || month > 12) {
                     System.out.println("Invalid input");
@@ -144,7 +144,7 @@ public class Vacation {
         eReceipt[2] = period + " days          from : " + startDate + " to " + endDate;
     }
 
-    public void setBedNum() {
+    private void setBedNum() {
         System.out.print("""
                 \nSelect the number of beds:
                 1 bed
@@ -165,7 +165,7 @@ public class Vacation {
         eReceipt[3] = bedNum + " beds";
     }
 
-    public void setWifi() {
+    private void setWifi() {
         temp = "";
         System.out.print("\nDo you want Wi-Fi? (yes/no): ");
         do {
@@ -179,7 +179,7 @@ public class Vacation {
         eReceipt[4] = wifi ? "Yes" : "No";
     }
 
-    public void setBreakfast() {
+    private void setBreakfast() {
         temp = "";
         System.out.print("\nDo you want breakfast? (yes/no): ");
         do {
@@ -193,7 +193,7 @@ public class Vacation {
         eReceipt[5] = breakfast ? "Yes" : "No";
     }
 
-    public void setParking() {
+    private void setParking() {
         temp = "";
         System.out.print("\nDo you want parking? (yes/no): ");
         do {
@@ -207,7 +207,7 @@ public class Vacation {
         eReceipt[6] = parking ? "Yes" : "No";
     }
 
-    public void setAirportDelivery() {
+    private void setAirportDelivery() {
         temp = "";
         System.out.print("\nDo you want airport delivery? (yes/no): ");
         do {
@@ -221,7 +221,7 @@ public class Vacation {
         eReceipt[7] = airportDelivery ? "Yes" : "No";
     }
 
-    public void setMapURL() {
+    private void setMapURL() {
         String mapURL;
         switch (city) {
             case "Sharm El-Shiekh" -> {
@@ -309,7 +309,7 @@ public class Vacation {
         eReceipt[8] = mapURL;
     }
 
-    public void book() {
+    private void book() {
         System.out.println(" \n----- Welcome to the vacation planner -----\n");
         setCity();
         setHotel();
